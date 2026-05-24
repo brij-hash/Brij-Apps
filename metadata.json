@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis Voice Recorder",
+  "description": "A futuristic voice recorder featuring real-time speech transcription, background noise cancellation, and voice effect processing (pitch and tone shifting). Inspired by Jarvis UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
